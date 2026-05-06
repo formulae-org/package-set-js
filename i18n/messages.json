@@ -1,0 +1,60 @@
+{
+	"pathSet":       "Set",
+	"pathSetNumber": "Set.Number sets",
+
+	"nameNaturals":       "The set of natural numbers",
+	"literalNaturals":    "ℕ",
+	"leafNaturals":       "Naturals (ℕ)",
+
+	"nameIntegers":       "The set of integers",
+	"literalIntegers":    "ℤ",
+	"leafIntegers":       "Integers (ℤ)",
+
+	"nameRationals":      "The set of rational numbers",
+	"literalRationals":   "ℚ",
+	"leafRationals":      "Rationals (ℚ)",
+
+	"nameReals":          "The set of real numbers",
+	"literalReals":       "ℝ",
+	"leafReals":          "Reals (ℝ)",
+
+	"nameComplex":        "The set of complex numbers",
+	"literalComplex":     "ℂ",
+	"leafComplex":        "Complex (ℂ)",
+
+	"namePrimes":         "The set of prime numbers",
+	"literalPrimes":      "ℙ",
+	"leafPrimes":         "Primes (ℙ)",
+
+	"nameQuaternions":    "The set of quaternions",
+	"literalQuaternions": "ℍ",
+	"leafQuaternions":    "Quaternions (ℍ)",
+
+	"nameUnion":        "Set union",
+	"operatorUnion":    "∪",
+	"leafUnion":        "Union (∪)",
+
+	"nameIntersection":     "Set intersection",
+	"operatorIntersection": "∩",
+	"leafIntersection":     "Intersection (∩)",
+
+	"nameDifference":        "Set difference",
+	"operatorDifference":    "∖",
+	"leafDifference":        "Difference (∖)",
+
+	"nameSymmetricDifference":     "Symmetric difference",
+	"operatorSymmetricDifference": "∆",
+	"leafSymmetricDifference":     "Symmetric difference (∆)",
+
+	"nameEmpty": "Empty set",
+	"leafEmpty": "Empty set (∅)",
+
+	"nameSet": "Set",
+	"leafSet": "Set ({ a, b, ... })",
+
+	"nameComplement": "Set complement",
+	"leafComplement": "Complement (Aᶜ)",
+
+	"nameSetBuilder": "Set-builder notation",
+	"leafSetBuilder": "Set builder ({ x | P(x) })"
+}

@@ -1,0 +1,60 @@
+{
+	"pathSet":       "Conjunto",
+	"pathSetNumber": "Conjunto.Conjuntos numéricos",
+
+	"nameNaturals":       "El conjunto de los números naturales",
+	"literalNaturals":    "ℕ",
+	"leafNaturals":       "Naturales (ℕ)",
+
+	"nameIntegers":       "El conjunto de los números enteros",
+	"literalIntegers":    "ℤ",
+	"leafIntegers":       "Enteros (ℤ)",
+
+	"nameRationals":      "El conjunto de los números racionales",
+	"literalRationals":   "ℚ",
+	"leafRationals":      "Racionales (ℚ)",
+
+	"nameReals":          "El conjunto de los números reales",
+	"literalReals":       "ℝ",
+	"leafReals":          "Reales (ℝ)",
+
+	"nameComplex":        "El conjunto de los números complejos",
+	"literalComplex":     "ℂ",
+	"leafComplex":        "Complejos (ℂ)",
+
+	"namePrimes":         "El conjunto de los números primos",
+	"literalPrimes":      "ℙ",
+	"leafPrimes":         "Primos (ℙ)",
+
+	"nameQuaternions":    "El conjunto de los cuaterniones",
+	"literalQuaternions": "ℍ",
+	"leafQuaternions":    "Cuaterniones (ℍ)",
+
+	"nameUnion":        "Unión de conjuntos",
+	"operatorUnion":    "∪",
+	"leafUnion":        "Unión (∪)",
+
+	"nameIntersection":     "Intersección de conjuntos",
+	"operatorIntersection": "∩",
+	"leafIntersection":     "Intersección (∩)",
+
+	"nameDifference":        "Diferencia de conjuntos",
+	"operatorDifference":    "∖",
+	"leafDifference":        "Diferencia (∖)",
+
+	"nameSymmetricDifference":     "Diferencia simétrica",
+	"operatorSymmetricDifference": "∆",
+	"leafSymmetricDifference":     "Diferencia simétrica (∆)",
+
+	"nameEmpty": "Conjunto vacío",
+	"leafEmpty": "Conjunto vacío (∅)",
+
+	"nameSet": "Conjunto",
+	"leafSet": "Conjunto ({ a, b, ... })",
+
+	"nameComplement": "Complemento de un conjunto",
+	"leafComplement": "Complemento (Aᶜ)",
+
+	"nameSetBuilder": "Notación de comprensión",
+	"leafSetBuilder": "Comprensión ({ x | P(x) })"
+}
